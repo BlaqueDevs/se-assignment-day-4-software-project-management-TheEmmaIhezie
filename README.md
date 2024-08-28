@@ -21,7 +21,8 @@ Establishing backup plans beforehand: This ensures the redistribution of resourc
 Effective cost control helps to guarantee that resources are used effectively and to avoid budget overruns that could compromise the project's completion. Project managers can contribute to the success of the project by tightly controlling expenses and ensuring that the project provides value within the budget allotted.
 
 Strategies to prevent budget overruns
-
+Monitoring on a regular basis: Use of project management tools to keep tabs on spending versus the budget in order to identify and address any potential overruns early.
+Allocation of resources: It involves distributing available resources—such as team members, tools, technology, and budget—optimally to ensure that each task is completed efficiently and without waste.
 
 
 
