@@ -98,6 +98,10 @@ Its capacity to display task interdependence is one of the main advantages of ut
 Tracking progress is another benefit of using Gantt charts. To make it easier to identify how much of the project has been accomplished, jobs can have their bars darkened or marked with a different color when they’re finished. Monitoring the project's overall development and spotting any possible delays are made easier with the help of this tool.
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+Lack of technical know how
+Lack of personnel
+
+It is significant to the target audience because if evaluated correctly, will provide solutions to their needs
 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 1. A clear problem statement sets the foundation for a successful software development project. By addressing the core issues and requirements, the final product is more likely to meet the needs of the end-users and stakeholders. 
@@ -109,6 +113,20 @@ A clear problem statement provides a basis for making informed decisions through
 A well-defined problem statement also helps to involve stakeholders and keep them engaged throughout the development process. When stakeholders understand the problem that the software aims to solve, they can provide valuable feedback and participate in decision making. This involvement leads to a more collaborative approach and ensures that the final product meets the expectations of all stakeholders.
 
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+Our software solution is a powerful tool that streamlines and automates tasks, making workflows more efficient and boosting productivity. We offer state of the art assistance on any thing related to your software problems. You don't need to understand my jargon, because that is what i am here for.
+
 ## 11. What are the main features or functionalities that make your software stand out?
+Top notch delivery
+User friendliness and readibility
+
 ## 12. What data is available regarding the market size and growth potential for your software?
 ## 13. How can understanding market trends inform your software’s positioning and development?
+
+Market trends describe the general direction of a given market or business. The demand for a product or service can be influenced by several external factors such as economic situations, technological advancements, and alterations in consumer tastes.
+
+Software firms must comprehend and position themselves during market trends for the following reasons:
+1. Determining client preferences and demands: Software companies may learn a lot about their customers' needs and wants by monitoring market trends. Higher customer satisfaction and retention can result from using this information to design and improve goods that suit those needs.
+2. Directing the creation of new products: Market trends can reveal important details about the features and functionality that consumers want. By using this information to inform product development, software companies may make sure that their solutions are meeting the needs of their intended market.
+3. Improving marketing techniques: Software firms can better position their product to appeal to their target audience by using market trends to inform their marketing strategy. Businesses can develop focused marketing efforts that draw in new clients by knowing the demands of the present and future markets.
+4. Finding new business prospects: Software firms can find new business opportunities and possible areas for expansion by monitoring market trends. For instance, a business may consider creating a new product if there is an increasing need for a specific kind of software.
+
