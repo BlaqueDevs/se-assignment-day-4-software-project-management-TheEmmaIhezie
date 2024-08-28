@@ -41,7 +41,6 @@ Disadvantages Of Agile
 1) Less Predictable: Prognosticating the ultimate product, schedule, and budget may be difficult due to Agile's adaptability.
 2) High Engagement: Stakeholders and team members must be involved continuously, which might be difficult.
 
-
 Advantages of Waterfall Methodology 
 1) Predictability: Timelines, budgets, and resource estimates are made easier by the linear nature of the waterfall approach.
 2) Clear Documentation: Thorough documentation at every stage guarantees a thorough understanding of the project's requirements.
@@ -64,7 +63,18 @@ Projects that are large and complex usually have distinct phases and a well-defi
 Example: Building a new software system for a financial institution, where each stage is contingent upon the successful completion of the preceding one.
 
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+The World Breakdown Structure (WBS) is a project management system that breaks projects into smaller, more manageable components or tasks. It is a visual tool that breaks down the entire project to make it easier to plan, organize, and track progress.
+It is organized like a tree. The main project is at the top, and the details get added below it. Each level has more details than the last. This makes it easier for everyone to understand their roles and what needs to be done.
+
+Why WBS IS HELPFUL
+
+1) The WBS is also helpful for planning and identifying important parts of the project.
+2) It can show potential problems and when things need to be done. This helps project managers use resources wisely and manage time well.
+3) WBS helps everyone involved stay on the same page.
+4) The WBS can be changed as the project moves forward. It can also be used to track progress and make sure things are going according to plan.
+Overall, the WBS is a very important tool for project managers. It helps break down big projects into smaller, more manageable pieces. It also makes communication and teamwork easier and gives a clear plan for success.
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
