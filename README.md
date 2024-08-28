@@ -21,13 +21,48 @@ Establishing backup plans beforehand: This ensures the redistribution of resourc
 Effective cost control helps to guarantee that resources are used effectively and to avoid budget overruns that could compromise the project's completion. Project managers can contribute to the success of the project by tightly controlling expenses and ensuring that the project provides value within the budget allotted.
 
 Strategies to prevent budget overruns
+
 Monitoring on a regular basis: Use of project management tools to keep tabs on spending versus the budget in order to identify and address any potential overruns early.
+
 Allocation of resources: It involves distributing available resources—such as team members, tools, technology, and budget—optimally to ensure that each task is completed efficiently and without waste.
 
-
+Scope management: Clearly defining the project's scope and sticking to it unless essential revisions are authorized and budgeted for in order to prevent scope creep.
 
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
+
+The Agile  and Waterfall Methodologies are two methodologies used in software development. Agile is flexible, adaptable and continuous, while Waterfall is sequential, rigid and predictable.
+
+Advantages of Agile Methodology
+1) Flexibility in responding to input and new requirements throughout the project lifecycle.
+2) Continuous Delivery: Frequent functional software delivery is ensured by regular iterations.
+3) Involvement of Consumers: Tight cooperation with stakeholders results in a product that better satisfies user needs.
+
+Disadvantages Of Agile
+1) Less Predictable: Prognosticating the ultimate product, schedule, and budget may be difficult due to Agile's adaptability.
+2) High Engagement: Stakeholders and team members must be involved continuously, which might be difficult.
+
+
+Advantages of Waterfall Methodology 
+1) Predictability: Timelines, budgets, and resource estimates are made easier by the linear nature of the waterfall approach.
+2) Clear Documentation: Thorough documentation at every stage guarantees a thorough understanding of the project's requirements.
+3) Structured Progression: Every stage needs to be finished before the other is embarked on
+
+Disadvantages of Waterfall Methodology
+1) Lack of flexibility
+2) Testing is done at the end of the process, which increases the chance that problems will be found after a significant amount of effort has been done.
+   
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+When Is Agile More Helpful?
+
+Agile methodology is well-suited for projects that have uncertain requirements, such as those that may change or lack clear specifications from the outset. Creating a new mobile app, for instance, whose features are substantially influenced by user feedback.
+Initiative-Driven Projects: Agile is best suited for initiatives that call for regular iterations and ongoing enhancement. Instance: A fledgling company creating a product for a market that is evolving quickly.
+
+When Is Waterfall Helpful?
+
+Fixed Requirements Projects: Waterfall projects have well-defined requirements that are unlikely to change. A government project, for instance, where documentation and compliance are essential.
+Projects that are large and complex usually have distinct phases and a well-defined ultimate aim. 
+Example: Building a new software system for a financial institution, where each stage is contingent upon the successful completion of the preceding one.
+
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
